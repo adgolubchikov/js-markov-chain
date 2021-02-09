@@ -1,0 +1,17 @@
+{
+  "name": "js-markov-chain",
+  "version": "1.0.0",
+  "description": "Markov chain based text generator. Also can load data from Telegram chats and generate someone's messages.",
+  "main": "markov.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adgolubchikov/js-markov-chain.git"
+  },
+  "keywords": ["markov","generator"],
+  "author": "Artem Golubchikov",
+  "license": "MIT",
+  "homepage": "https://github.com/adgolubchikov/js-markov-chain"
+}
